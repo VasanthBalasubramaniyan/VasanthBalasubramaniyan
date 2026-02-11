@@ -13,7 +13,7 @@ Computer Science Engineer
 - ⚡ My Love - Volleyball🏐.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000">
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
 
 
